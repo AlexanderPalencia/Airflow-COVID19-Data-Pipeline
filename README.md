@@ -1,2 +1,2 @@
-# Airflow-COVID19-Data-Pipeline
-COVID 19 data pipeline with airflow and docker
+# Covid19-Data-Pipeline
+Covid 19 Data pipeline using Docker, Airflow, Python, R and PostgreSQL

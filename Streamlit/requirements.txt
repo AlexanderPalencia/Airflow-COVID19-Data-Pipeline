@@ -1,0 +1,8 @@
+altair
+pandas
+numpy
+matplotlib
+streamlit
+sqlalchemy
+PyMySQL
+pydeck
